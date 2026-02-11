@@ -6,11 +6,13 @@
   padding: 15px;
   color: black;
 }
+
 /* Navbar styling */
 .navbar-brand {
   font-weight: bold;
   color: black !important;
 }
+
 /* Background for the mobile dropdown */
 .navbar-nav {
   background-color: #f8f8f8;
